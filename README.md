@@ -1,0 +1,2 @@
+# Bike-Sharing-Case-study
+Business Objective: Develop a model for the demand of shared bikes which will be used by the management to understand how exactly the demands vary with different features and manipulate the business strategy to meet the demand levels and meet the customer's expectations.  Solution: Identified variables that are significant in predicting the demand for shared bikes and how well those variables describe the bike demands
